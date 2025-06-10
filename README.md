@@ -25,7 +25,6 @@ An AI-based coach that uses pose estimation to detect human movements and provid
 ## Unique Features
 -  Real-Time Posture Correction with alerts for incorrect form  
 -  AI-Based Personalized Workout Plans based on user progress  
--  Rehabilitation Tracking for post-injury mobility support  
 -  Automated Reps & Workout Counter using camera input  
 
 ---
